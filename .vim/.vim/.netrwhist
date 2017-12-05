@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/sja0128/.vim/tmp'
+let g:netrw_dirhist_2='/home/sja0128/.vim/tmp/backup'
+let g:netrw_dirhist_3='/home/sja0128/Test/structures'
+let g:netrw_dirhist_4='/home/sja0128/Test'
+let g:netrw_dirhist_5='/home/sja0128'
+let g:netrw_dirhist_6='/home/sja0128/Homework'
+let g:netrw_dirhist_7='/home/sja0128/Homework/homework6'
+let g:netrw_dirhist_8='/home/sja0128/1040/test/pointers'
